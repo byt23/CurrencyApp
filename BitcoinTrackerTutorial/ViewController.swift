@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var euPrice: UILabel!
     @IBOutlet weak var lastUpdatedPrice: UILabel!
     
-    let urlString = [Your API]"
+    let urlString = "[Your API]"
     
     override func viewDidLoad() {
         super.viewDidLoad()
